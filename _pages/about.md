@@ -10,11 +10,9 @@ redirect_from:
 
 I am Wenyong Zhou (周文涌), and I earned my PhD from The University of Hong Kong (HKU), where I had the privilege of being guided by the inspiring mentorship of Prof. Ngai Wong and Prof. Can Li as a proud member of the vibrant Next Gen AI (NGai) Lab family. My academic journey began with a Bachelor’s degree in 2019 from the School of Microelectronics at Tianjin University, where I was fortunate to work under the guidance of Prof. Yugong Wu, whose support sparked my curiosity for research. I later pursued my Master’s degree in Electrical and Computer Engineering at the McCormick School of Engineering, Northwestern University, where I was deeply influenced by the visionary mentorship of Prof. Seda Ogrenci.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+My research focuses on implicit neural representations, exploring their potential for efficient data representation and processing. I am also working on developing next-generation computing platforms, with a particular focus on compute-in-memory (CIM) technologies to enhance efficiency. Additionally, I am passionate about optimizing Large Language Models (LLMs) through techniques such as quantization, pruning, and knowledge distillation to improve their performance and scalability.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+Currently, I am working at Zhicun (Witmem) Technology, starting from November 2024, focusing on low-bit training of large language models (LLMs) using cutting-edge analog compute-in-memory (CIM) technology. This research aims to unlock the potential of low-bit training, enabling more energy-efficient, faster, and scalable LLM deployment on advanced hardware.
 
 
 A data-driven personal website
