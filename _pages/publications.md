@@ -5,42 +5,28 @@ title: "Publications"
 
 ## Conference
 
-+ Yang, S, **Huang, B.**, Zhang, Y., Yu, D., Yang, Y., Wong, N.  
-  *DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables.* **CVPR-2025**.  
-  [[PDF](https://cvpr.thecvf.com/virtual/2025/poster/34470)] [[Code](https://github.com/Stephen0808/DnLUT)]
++ **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025,* (**CCF-B**).
 
-+ Tang, J., Fei, F., Li, Z., Tang, X., Liu, S., Chen, Y., **Huang, B.**, Chen, Z., Wu, X., Shi, B.  
-  *SpecTRe-GS: Modeling Highly Specular Surfaces with Reflected Nearby Objects by Tracing Rays in 3D Gaussian Splatting.* **CVPR-2025**.  
-  [[PDF Coming Soon](#)] [[Codes Coming Soon](#)]
++ **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025,* (**CCF-B**).
 
-+ Lin, J., Li, Z., **Huang, B.**, Tang, X., Liu, J., Liu, S., Wu, X., Song, F., Yang, W.  
-  *Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting.* **AAAI-2025**.  
-  [[PDF](https://arxiv.org/pdf/2501.10788)]  
++ **W. Zhou\***, T. Wu\*, Y. Cheng, C. Zhang, Z. Liu and N. Wong. MINR: Efficient Implicit Neural Representations for Multi-Image Encoding, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025,* (**CCF-B**). 
 
-+ Yang, S\*, **Huang, B.\***, Cao, M., Ji, Y., Guo, H., Wong, N., Yang, Y.  
-  *Taming Lookup Tables for Efficient Image Retouching.* **ECCV-2024**.  
-  [[PDF](https://arxiv.org/abs/2403.19238)] [[Code](https://github.com/Stephen0808/ICELUT)]
++ **W. Zhou\***, Y. Cheng\*, T. Wu, C. Zhang, Z. Liu and N. Wong. Enhancing Robustness of Implicit Neural Representations Against Weight Perturbations, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025,* (**CCF-B**).
 
-+ **Huang, B.**, Li, C.\*, Ran, J., Li, B., Zhou, J., Yu, D., Wong, N.  
-  *Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution.* **IJCAI-2024**.  
-  [[PDF](https://arxiv.org/abs/2312.06101)] [[Code](https://github.com/jasonli0707/hklut)]
++ W. Qi\*, **W. Zhou\***, N. Wong and S.C. Chan, Hybrid Module with Multiple Receptive Fields and Self-Attention Layers for Medical Image Segmentation, *ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024,* (**CCF-B**).
 
-+ **Huang, B.**, Tao, C., Lin, R., Wong, N.  
-  *Frequency Regularization for Improving Adversarial Robustness.* **AAAI-2023 Workshop**.  
-  [[PDF]( /files/pdf/AAAI2023_Workshop.pdf)] [[Code](https://github.com/Harr7y/FR)]
++ **W. Zhou\***, Y. Ren\*, J. Zhou, C. Ding, Z. Liu, and N. Wong, RRAM-Based Isotropic CNNs with High Robustness and Resource Utilization Rate, *2025 9th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Hong Kong, China, 2025.*
 
-+ Li, C.\*, Liu, C.\*, **Huang, B.**, Wong, N.  
-  *Learning Spatially Collaged Fourier Bases for Implicit Neural Representation.* **AAAI-2024**.  
-  [[PDF]( /files/pdf/AAAI24_SCONE_third.pdf)] [[Code](https://github.com/jasonli0707/scone)]
++ **W. Zhou\***, Y. Ren\*, J. Zhou, T. Hou, and N. Wong, A Time- and Energy-Efficient CNN with Dense Connections on Memristor-Based Chips, *2023 IEEE 15th International Conference on ASIC (ASICON), Nanjing, China, 2023.*
 
-+ Liu, C., Qian, X., **Huang, B.**, Qi, X., Lam, E., Tan, S. C., &amp; Wong, N.  
-  *Multimodal Transformer for Automatic 3D Annotation and Object Detection.* **ECCV-2022**.  
-  [[PDF](https://arxiv.org/pdf/2207.09805.pdf)] [[Code](https://github.com/Cliu2/MTrans)]
++ Z. Guan\*, **W. Zhou\***, Y. Ren, R. Xie, H. Yu and N. Wong, A Hardware-Aware Neural Architecture Search Pareto Front Exploration for In-Memory Computing, *2022 IEEE 16th International Conference on Solid-State & Integrated Circuit Technology (ICSICT), Nanjing, China, 2022.*
 
 ---
 
 ## Journal
 
-+ Lin, R.\*, Li, C.\*, Zhou, J., **Huang, B.**, Ran, J., Wong, N.  
-  *Lite it Fly: An All-Deformable-Butterfly Network.* **TNNLS-2023**.  
-  [[PDF &amp; Codes Coming Soon](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
++ **W. Zhou**, Y. Ren, Z. Liu and N. Wong. Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
+  
++ **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
+  
++ J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
