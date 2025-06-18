@@ -31,8 +31,9 @@ Research Interests
   - My research focuses on developing advanced techniques such as quantization, pruning, and knowledge distillation to reduce the size and computational requirements of LLMs.
   - I aim to enable their deployment on resource-constrained devices while maintaining high accuracy and exploring methods to make their training and inference more energy-efficient and scalable.
 
-Selected Publications (*represents equal contribution)
+Selected Publications 
 ======
+*: Equal contribution.
 - INRs
   - INR are a novel approach for encoding data, such as images, signals, and 3D scenes, in a continuous and compact form using neural networks.
   - My research focuses on improving the memory efficiency and generalization capabilities of these representations.
