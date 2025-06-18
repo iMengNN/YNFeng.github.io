@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ My research focuses on implicit neural representations, exploring their potentia
 Currently, I am working at Zhicun (Witmem) Technology, starting from November 2024, focusing on low-bit training of large language models (LLMs) using cutting-edge analog compute-in-memory (CIM) technology. This research aims to unlock the potential of low-bit training, enabling more energy-efficient, faster, and scalable LLM deployment on advanced hardware.
 
 
-A data-driven personal website
+Research Interests
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
