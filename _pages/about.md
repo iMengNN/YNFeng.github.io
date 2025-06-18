@@ -12,7 +12,7 @@ I am Wenyong Zhou (周文涌), and I earned my PhD from The University of Hong K
 
 My research focuses on implicit neural representations, exploring their potential for efficient data representation and processing. I am also working on developing next-generation computing platforms, with a particular focus on compute-in-memory (CIM) technologies to enhance efficiency. Additionally, I am passionate about optimizing Large Language Models (LLMs) through techniques such as quantization, pruning, and knowledge distillation to improve their performance and scalability.
 
-Currently, I am working at Zhicun (Witmem) Technology, starting from November 2024, focusing on low-bit training of large language models (LLMs) using cutting-edge analog compute-in-memory (CIM) technology. This research aims to unlock the potential of low-bit training, enabling more energy-efficient, faster, and scalable LLM deployment on advanced hardware.
+Currently, I am working at Zhicun (Witmem) Technology, starting from November 2024, focusing on low-bit training of LLMs using cutting-edge analog compute-in-memory (CIM) technology. This research aims to unlock the potential of low-bit training, enabling more energy-efficient, faster, and scalable LLM deployment on advanced hardware.
 
 
 Research Interests
