@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am Wenyong Zhou (周文涌), and I earned my PhD from The University of Hong Kong (HKU), where I had the privilege of being guided by the inspiring mentorship of Prof. Ngai Wong and Prof. Can Li as a proud member of the vibrant Next Gen AI (NGai) Lab family. My academic journey began with a Bachelor’s degree in 2019 from the School of Microelectronics at Tianjin University, where I was fortunate to work under the guidance of Prof. Yugong Wu, whose support sparked my curiosity for research. I later pursued my Master’s degree in Electrical and Computer Engineering at the McCormick School of Engineering, Northwestern University, where I was deeply influenced by the visionary mentorship of Prof. Seda Ogrenci.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
