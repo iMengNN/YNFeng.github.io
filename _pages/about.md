@@ -20,12 +20,12 @@ Research Interests
   - INR are a novel approach for encoding data, such as images, signals, and 3D scenes, in a continuous and compact form using neural networks.
   - My research focuses on improving the memory efficiency and generalization capabilities of these representations.
   - I am working on techniques to accelerate their training and inference for real-world deployment.
-####################################
+
 - Next-Generation Computing Platforms
   - Next-generation computing platforms aim to overcome the limitations of traditional hardware architectures, and analog CIM technology is at the forefront of this innovation.
   - My research involves designing and optimizing CIM hardware to accelerate AI computations while improving energy efficiency. 
   - I also address challenges related to device reliability, precision, and scalability, ensuring these platforms are practical for real-world applications.
-####################################
+
 - Efficient LLMs
   - Optimizing LLMs for efficiency without sacrificing performance is critical as these models grow in size.
   - My research focuses on developing advanced techniques such as quantization, pruning, and knowledge distillation to reduce the size and computational requirements of LLMs.
@@ -38,12 +38,12 @@ Selected Publications
   - INR are a novel approach for encoding data, such as images, signals, and 3D scenes, in a continuous and compact form using neural networks.
   - My research focuses on improving the memory efficiency and generalization capabilities of these representations.
   - I am working on techniques to accelerate their training and inference for real-world deployment.
-####################################
+
 - Next-Generation Computing Platforms
   - Next-generation computing platforms aim to overcome the limitations of traditional hardware architectures, and analog CIM technology is at the forefront of this innovation.
   - My research involves designing and optimizing CIM hardware to accelerate AI computations while improving energy efficiency. 
   - I also address challenges related to device reliability, precision, and scalability, ensuring these platforms are practical for real-world applications.
-####################################
+
 - Efficient LLMs
   - Optimizing LLMs for efficiency without sacrificing performance is critical as these models grow in size.
   - My research focuses on developing advanced techniques such as quantization, pruning, and knowledge distillation to reduce the size and computational requirements of LLMs.
