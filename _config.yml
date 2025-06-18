@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "WenyongZHOU.png"
   name             : "Wenyong Zhou"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing, China"
+  employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wenyongz@connect.hku.hk" 
 
   # Academic websites
   academia         : # URL
