@@ -1,36 +1,29 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Conference
 
-{% include base_path %}
+Sidi Yang, Binxiao Huang, Yulun Zhang, Dahai Yu, Yujiu Yang, Ngai Wong
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
++ Yang, S, **Huang, B.**, Zhang, Y., Yu, D., Yang, Y., Wong, N. DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables. **CVPR-2025**. [[PDF](https://cvpr.thecvf.com/virtual/2025/poster/34470)][[Code](https://github.com/Stephen0808/DnLUT)]
+
++ Tang, J, Fei, F., Li, Z., Tang, X., Liu, S., Chen, Y., **Huang, B.**, Chen, Z., Wu, X., Shi, B. SpecTRe-GS: Modeling Highly Specular Surfaces with Reflected Nearby Objects by Tracing Rays in 3D Gaussian Splatting. **CVPR-2025**.[[PDF Coming Soon][Codes Coming Soon]]
+
++ Lin, J., Li, Z., **Huang, B.**, Tang, X., Liu, J., Liu, S., Wu, X., Song, F., Yang, W. Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting. **AAAI-2025**. [[PDF](https://arxiv.org/pdf/2501.10788)]
+  
++ Yang, S *, **Huang, B.** *, Cao, M., Ji, Y., Guo, H., Wong, N, Yang, Y. Taming Lookup Tables for Efficient Image Retouching. **ECCV-2024**. [[PDF](https://arxiv.org/abs/2403.19238)][[Code](https://github.com/Stephen0808/ICELUT)]
+
++ **Huang, B.** *, Li, C. *, Ran, J., Li, B., Zhou, J., Yu D., Wong, N. Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution. **IJCAI-2024** [[PDF](https://arxiv.org/abs/2312.06101)][[Code](https://github.com/jasonli0707/hklut)]
+
++ **Huang, B.**, Tao, C., LIN, R., Wong, N. Frequency Regularization for Improving Adversarial Robustness. **AAAI-2023 Workshop** [[PDF](\files\pdf\AAAI2023_Workshop.pdf)][[Code](https://github.com/Harr7y/FR)]
+
++ Li, C. *, Liu, C. *, **Huang, B.**, Wong, N. Learning Spatially Collaged Fourier Bases for Implicit Neural Representation. **AAAI-2024** [[PDF](\files\pdf\AAAI24_SCONE_third.pdf)] [Code](https://github.com/jasonli0707/scone)]
+
++ Liu, C., Qian, X., **Huang, B.**, Qi, X., Lam, E., Tan, S. C., & Wong, N. Multimodal Transformer for Automatic 3D Annotation and Object Detection. **ECCV-2022**.[[PDF](https://arxiv.org/pdf/2207.09805.pdf)][[Code](https://github.com/Cliu2/MTrans)]
 
 
 
+## Journal
++ Lin, R. *, Li, C. *, Zhou, J., **Huang, B.**, Ran, J., Wong, N. (2023). Lite it fly: An All-Deformable-Butterfly Network. **TNNLS-2023**. [[PDF & Codes Coming Soon](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
