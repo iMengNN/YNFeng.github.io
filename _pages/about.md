@@ -11,25 +11,15 @@ I am Wenyong Zhou (周文涌), and I earned my PhD from The University of Hong K
 
 My research focuses on implicit neural representations (INRs), exploring their potential for efficient data representation and processing. I am also working on developing next-generation computing platforms, with a particular focus on compute-in-memory (CIM) technologies to enhance efficiency. Additionally, I am passionate about optimizing Large Language Models (LLMs) through techniques such as quantization, pruning, and knowledge distillation to improve their performance and scalability.
 
-Currently, I am working at Zhicun (Witmem) Technology, starting from November 2024, focusing on low-bit training of LLMs using cutting-edge analog compute-in-memory (CIM) technology. This research aims to unlock the potential of low-bit training, enabling more energy-efficient, faster, and scalable LLM deployment on advanced hardware.
+Currently, I am working at Zhicun (Witmem) Technology, starting from November 2024, focusing on low-bit training of LLMs using cutting-edge analog CIM technology. This research aims to unlock the potential of low-bit training, enabling more energy-efficient, faster, and scalable LLM deployment on advanced hardware.
 
 
 Research Interests
 ======
-- INRs
-  - INR are a novel approach for encoding data, such as images, signals, and 3D scenes, in a continuous and compact form using neural networks.
-  - My research focuses on improving the memory efficiency and generalization capabilities of these representations.
-  - I am working on techniques to accelerate their training and inference for real-world deployment.
+- INRs are an innovative technique for encoding data such as images, signals, and 3D scenes in a continuous and compact form using neural networks. Unlike traditional discrete representations, INRs model data as continuous functions, offering greater detail and adaptability. By encoding information within a compact neural network, they reduce the need for extensive storage while maintaining high-fidelity representations. This makes them particularly valuable in applications where storage and computational resources are limited.
+- CIM integrates memory and computation into a single unit, significantly reducing data movement—one of the primary bottlenecks in traditional systems—and boosting both energy efficiency and computational speed. This approach is especially effective for accelerating AI workloads, enabling faster and more efficient processing of complex algorithms while addressing the growing demand for energy-efficient computing solutions.
+- LLMs have become a cornerstone of modern AI, driving advancements in applications ranging from natural language understanding to content generation. Efficient LLMs utilize techniques such as quantization, pruning, and model compression to minimize their size and computational requirements without compromising performance. These optimizations allow LLMs to operate on smaller devices while maintaining high accuracy, democratizing access to advanced AI capabilities and broadening their range of applications.
 
-- Next-Generation Computing Platforms
-  - Next-generation computing platforms aim to overcome the limitations of traditional hardware architectures, and analog CIM technology is at the forefront of this innovation.
-  - My research involves designing and optimizing CIM hardware to accelerate AI computations while improving energy efficiency. 
-  - I also address challenges related to device reliability, precision, and scalability, ensuring these platforms are practical for real-world applications.
-
-- Efficient LLMs
-  - Optimizing LLMs for efficiency without sacrificing performance is critical as these models grow in size.
-  - My research focuses on developing advanced techniques such as quantization, pruning, and knowledge distillation to reduce the size and computational requirements of LLMs.
-  - I aim to enable their deployment on resource-constrained devices while maintaining high accuracy and exploring methods to make their training and inference more energy-efficient and scalable.
 
 Recent News
 ======
@@ -44,53 +34,21 @@ Selected Publications
 ======
 *: Equal contribution.
 - INRs
-  - **W. Zhou**, Y. Ren, Z. Liu and N. Wong. Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,* (**CCF-A**).
-
-- **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*, (under review).
-
-- **W. Zhou\***, X. Feng\*, T. Wu, M. Li, Z. Liu and N. Wong. FSM-Driven Stochastic Computing for Efficient Multi-Resolution Implicit Neural Representation, *IEEE Transactions on Circuits and Systems II: Express Briefs*, (under review).
-
-- J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs*, (under review).
-
-- X. Feng\*, **W. Zhou\***, T. Wu, M. Li, Z. Liu and N. Wong. Activation-free Implicit Neural Representation via Finite-State-Machine based Stochastic Computing, *IEEE Transactions on Circuits and Systems II: Express Briefs*, (under review).
-
-- Y. Ren\*, **W. Zhou\***, Z. Liu and N. Wong. FreqShield: A Frequency-Domain Noise Modulation Architecture for Robust Memristor-based CNN, *IEEE Transactions on Circuits and Systems for Artificial Intelligence*, (under review).
-
-- **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Critical Weight Condensation for Robust Diffusion Models on Memristor-based CIM System, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, (under review).
-
-- T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, C. Shi, Z. Liu and N. Wong. HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, (under review).
-
-- **W. Zhou\***, W. Qi\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. STAR: Space-Time Adaptive Resolution Downsampling for Efficient Training of Pixel-based Neural Video Representation, *ACM Multimedia 2025, Dublin, Ireland* (**CCF-A**).
-
-- **W. Zhou\***, W. Qi\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Efficient Training of Implicit Neural Representations via Progressive Resolution and Frequency-aware Sampling, *the 34th International Joint Conference on Artificial Intelligence (IJCAI'25),* (**CCF-A**).
-
-- **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025,* (**CCF-B**).
-
-- **W. Zhou\***, W. Qi\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Low-Rank Regularization for Robust Implicit Neural Representations with In-Memory Computing, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025,* (**CCF-B**).
-
-- **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025,* (**CCF-B**).
-
-- **W. Zhou\***, T. Wu\*, Y. Cheng, C. Zhang, Z. Liu and N. Wong. MINR: Efficient Implicit Neural Representations for Multi-Image Encoding, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025,* (**CCF-B**).
-
-- **W. Zhou\***, Y. Cheng\*, T. Wu, C. Zhang, Z. Liu and N. Wong. Enhancing Robustness of Implicit Neural Representations Against Weight Perturbations, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025,* (**CCF-B**).
-
-- W. Qi\*, **W. Zhou\***, N. Wong and S.C. Chan, Hybrid Module with Multiple Receptive Fields and Self-Attention Layers for Medical Image Segmentation, *ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024,* (**CCF-B**).
-
-- **W. Zhou\***, Y. Ren\*, J. Zhou, C. Ding, Z. Liu, and N. Wong, RRAM-Based Isotropic CNNs with High Robustness and Resource Utilization Rate, *2025 9th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Hong Kong, China, 2025*.
-
-- **W. Zhou\***, Y. Ren\*, J. Zhou, T. Hou, and N. Wong, A Time- and Energy-Efficient CNN with Dense Connections on Memristor-Based Chips, *2023 IEEE 15th International Conference on ASIC (ASICON), Nanjing, China, 2023*.
-
-- Z. Guan\*, **W. Zhou\***, Y. Ren, R. Xie, H. Yu and N. Wong, A Hardware-Aware Neural Architecture Search Pareto Front Exploration for In-Memory Computing, *2022 IEEE 16th International Conference on Solid-State & Integrated Circuit Technology (ICSICT), Nangjing, China, 2022*.
-
+  - **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*.  
+  - J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs*, (Major revision).
+  - **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025*.
+  - **W. Zhou\***, T. Wu\*, Y. Cheng, C. Zhang, Z. Liu and N. Wong. MINR: Efficient Implicit Neural Representations for Multi-Image Encoding, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025*.
+  - **W. Zhou\***, Y. Cheng\*, T. Wu, C. Zhang, Z. Liu and N. Wong. Enhancing Robustness of Implicit Neural Representations Against Weight Perturbations, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025.
+  
 - Next-Generation Computing Platforms
-  - Next-generation computing platforms aim to overcome the limitations of traditional hardware architectures, and analog CIM technology is at the forefront of this innovation.
-  - My research involves designing and optimizing CIM hardware to accelerate AI computations while improving energy efficiency. 
-  - I also address challenges related to device reliability, precision, and scalability, ensuring these platforms are practical for real-world applications.
+  - **W. Zhou**, Y. Ren, Z. Liu and N. Wong. Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
+  - T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, C. Shi, Z. Liu and N. Wong. HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, (under review).
+  - **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025*.
+  - **W. Zhou\***, Y. Ren\*, J. Zhou, C. Ding, Z. Liu, and N. Wong, RRAM-Based Isotropic CNNs with High Robustness and Resource Utilization Rate, *2025 9th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Hong Kong, China, 2025*.
+  - **W. Zhou\***, Y. Ren\*, J. Zhou, T. Hou, and N. Wong, A Time- and Energy-Efficient CNN with Dense Connections on Memristor-Based Chips, *2023 IEEE 15th International Conference on ASIC (ASICON), Nanjing, China, 2023*.
 
 - Efficient LLMs
-  - Optimizing LLMs for efficiency without sacrificing performance is critical as these models grow in size.
-  - My research focuses on developing advanced techniques such as quantization, pruning, and knowledge distillation to reduce the size and computational requirements of LLMs.
-  - I aim to enable their deployment on resource-constrained devices while maintaining high accuracy and exploring methods to make their training and inference more energy-efficient and scalable.
+  - On the way
 
 More about me
 ------
