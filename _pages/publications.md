@@ -5,9 +5,9 @@ title: "Publications"
 
 ## Conference
 
-+ **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025,* (**CCF-B**).
++ **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025*.
 
-+ **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025,* (**CCF-B**).
++ **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025*.
 
 + **W. Zhou\***, T. Wu\*, Y. Cheng, C. Zhang, Z. Liu and N. Wong. MINR: Efficient Implicit Neural Representations for Multi-Image Encoding, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025*. 
 
