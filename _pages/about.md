@@ -31,6 +31,15 @@ Research Interests
   - My research focuses on developing advanced techniques such as quantization, pruning, and knowledge distillation to reduce the size and computational requirements of LLMs.
   - I aim to enable their deployment on resource-constrained devices while maintaining high accuracy and exploring methods to make their training and inference more energy-efficient and scalable.
 
+Recent News
+======
+- 2025.08 - One paper was accepted by ASICON.
+- 2025.06 - One paper was accepted by IEEE TCAS-II.
+- 2025.03 - One paper was accepted by ICME 2025.
+- 2025.01 - One paper was accepted by EDTM 2025.
+- 2024.12 - Two papers were accepted by ICCASP 2025.
+- 2024.11 - One paper was accepted by DATE 2025.
+
 Selected Publications 
 ======
 *: Equal contribution.
@@ -55,4 +64,4 @@ More about me
 - I am deeply passionate about reading, particularly delving into history and politics through a financial lens. I find it fascinating to uncover how financial systems and economic decisions have shaped societies and historical events.
 - Traveling is one of my greatest joys. It allows me to explore new cultures, meet diverse people, and experience the world from different perspectives. Each trip enriches my understanding of humanity and inspires new ways of thinking.
 
-
+(Last updated on Aug., 2025)
