@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenyong ZHOU / Personal Homepage"
+title                    : "Wenyong Zhou"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
