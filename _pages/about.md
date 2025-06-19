@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenyong Zhou (周文涌), a PhD graduate from The University of Hong Kong (HKU), where I was mentored by Prof. Ngai Wong and Prof. Can Li in the Next Gen AI Lab. I hold a Bachelor’s degree from Tianjin University (2019), guided by Prof. Yugong Wu, and a Master’s degree in Electrical and Computer Engineering from Northwestern University, where I was mentored by Prof. Seda Ogrenci.
+I am Wenyong Zhou (周文涌), a PhD graduate from The University of Hong Kong (HKU), where I had the privilege of being guided by Prof. Ngai Wong and Prof. Can Li in the Next Gen AI Lab. Before that, I earned a Bachelor’s degree from the School of Microelectronics at Tianjin University (2019), where I was fortunate to be mentored by Prof. Yugong Wu. I then pursued a Master’s degree in Electrical and Computer Engineering at Northwestern University, where I was deeply influenced by the visionary mentorship of Prof. Seda Ogrenci.
 
 My research focuses on implicit neural representations (INRs) as an efficient data paradigm and emerging computational frameworks, including compute-in-memory (CIM) and stochastic computing. Additionally, I am passionate about improving the efficiency of Large Language Models (LLMs) through techniques such as quantization, pruning, and knowledge distillation.
 
@@ -16,7 +16,7 @@ Since November 2024, I have been working at Zhicun (Witmem) Technology, focusing
 
 Research Interests
 ======
-- Data is the fuel of the AI era, and implicit neural representations (INRs) offer an innovative approach for encoding data such as images, signals, and 3D scenes in a continuous and compact form using neural networks. This reduces the need for extensive storage while maintaining high-fidelity representations.
+- Data is the fuel of the AI era, and INRs offer an innovative approach for encoding data such as images, signals, and 3D scenes in a continuous and compact form using neural networks. This reduces the need for extensive storage while maintaining high-fidelity representations.
 
 - Computing power drives modern AI, but classical digital computers face challenges due to the separation of compute and storage units. Compute-in-memory (CIM) integrates memory and computation into a single unit, significantly reducing data movement and making it especially effective for accelerating AI workloads.
 
