@@ -7,8 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/pdf/CV_ZHOU.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+Below, you can download both the English and Chinese versions of my detailed CV.
 
-You can download a PDF copy of my CV here for [Chinese version](/files/pdf/CV_ZHOU_CN.pdf).
+## **Download CV**
+- [English Version](pdf/Wenyong_Zhou_CV_English.pdf)  
+- [Chinese Version](pdf/Wenyong_Zhou_CV_Chinese.pdf)
 
-<! -- [English version] (not available now) -->
+If you have any questions or require further information, feel free to contact me.
