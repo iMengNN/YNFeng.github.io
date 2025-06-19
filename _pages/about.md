@@ -18,7 +18,7 @@ Research Interests
 ======
 - Data is the fuel of the AI era, and INRs offer an innovative approach for encoding data such as images, signals, and 3D scenes in a continuous and compact form using neural networks. This reduces the need for extensive storage while maintaining high-fidelity representations.
 
-- Computing power drives modern AI, but classical digital computers face challenges due to the separation of compute and storage units. Compute-in-memory (CIM) integrates memory and computation into a single unit, significantly reducing data movement and making it especially effective for accelerating AI workloads.
+- Computing power drives modern AI, but classical digital computers face challenges due to the separation of compute and storage units. CIM integrates memory and computation into a single unit, significantly reducing data movement and making it especially effective for accelerating AI workloads.
 
 - LLMs have become a cornerstone of modern AI, driving advancements in applications ranging from natural language understanding to content generation. Minimizing their size and computational requirements without compromising performance democratizes access to advanced AI capabilities and broadens their range of applications.
 
@@ -54,8 +54,10 @@ Selected Publications
 
 More about me
 ------
-- I enjoy staying active and challenging myself through sports like table tennis, badminton, and basketball. These activities not only keep me physically fit but also teach me the value of teamwork, strategy, and perseverance.
-- I am deeply passionate about reading, particularly delving into history and politics through a financial lens. I find it fascinating to uncover how financial systems and economic decisions have shaped societies and historical events.
-- Traveling is one of my greatest joys. It allows me to explore new cultures, meet diverse people, and experience the world from different perspectives. Each trip enriches my understanding of humanity and inspires new ways of thinking.
+- I am passionate about competitive sports and enjoy practicing table tennis, badminton, and basketball. These activities have taught me valuable lessons about handling failure and shaping my personality.
+
+- I enjoy reading, particularly exploring history and politics through a financial lens to uncover how fundamental financial principles remain unchanged despite human intentions.
+
+- I love traveling the world to experience beautiful natural landscapes and diverse human cultures, which enrich my understanding of humanity and inspire new ways of thinking.
 
 (Last updated on Aug., 2025)
