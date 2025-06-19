@@ -12,7 +12,7 @@ Teaching Materials
 ======
 I believe in sharing knowledge and resources to support learning. Below are some materials I created or used during my time as a teaching assistant for MATH 1853:
 
-- [[Linear Algebra Slides](\files\pdf\MATH_1853_Slides.pdf)]  
-- [[Linear Algebra Examples](\files\pdf\MATH_1853_Tutorial.pdf)]
+- [Linear Algebra Slides](files/pdf/MATH_1853_Slides.pdf)  
+- [Linear Algebra Examples](files/pdf/MATH_1853_Tutorial.pdf)
 
 Feel free to download and use these resources for educational purposes. If you have any questions or feedback, please don’t hesitate to reach out to me.
