@@ -42,12 +42,12 @@ Selected Publications
   - **W. Zhou\***, T. Wu\*, Y. Cheng, C. Zhang, Z. Liu and N. Wong. MINR: Efficient Implicit Neural Representations for Multi-Image Encoding, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025*.
   - **W. Zhou\***, Y. Cheng\*, T. Wu, C. Zhang, Z. Liu and N. Wong. Enhancing Robustness of Implicit Neural Representations Against Weight Perturbations, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025.
   
-- Next-Generation Computing Platforms
+- CIM hardware
   - **W. Zhou**, Y. Ren, Z. Liu and N. Wong. Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
   - T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, C. Shi, Z. Liu and N. Wong. HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, (under review).
   - **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025*.
   - **W. Zhou\***, Y. Ren\*, J. Zhou, C. Ding, Z. Liu, and N. Wong, RRAM-Based Isotropic CNNs with High Robustness and Resource Utilization Rate, *2025 9th IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Hong Kong, China, 2025*.
-  - **W. Zhou\***, Y. Ren\*, J. Zhou, T. Hou, and N. Wong, A Time- and Energy-Efficient CNN with Dense Connections on Memristor-Based Chips, *2023 IEEE 15th International Conference on ASIC (ASICON), Nanjing, China, 2023*.
+  - Y. Feng\*, **W. Zhou\***, Y. Lyu, H. Liu, Z. Liu, N. Wong and W. Kang, HPD: Hybrid Projection Decomposition for Robust State Space Models on Analog CIM Hardware, *2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, 2025*.
 
 - Efficient LLMs
   - On the way
