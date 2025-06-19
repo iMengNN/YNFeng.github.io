@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Blog"
-permalink: /blog/
+title: "Blogs"
+permalink: /blogs/
 author_profile: true
 ---
 Welcome to my blog section! Here, I share my personal thoughts, experiences, and problem-solving strategies while tackling LeetCode. This blog is a space where I document my learning journey, explore coding techniques, and share insights on how to approach algorithmic challenges.
