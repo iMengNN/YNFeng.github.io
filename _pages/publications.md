@@ -25,8 +25,9 @@ title: "Publications"
 
 ## Journal
 
++ J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs* (Major revision).
+  
 + **W. Zhou**, Y. Ren, Z. Liu and N. Wong. Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
   
 + **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
-  
-+ J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
+
