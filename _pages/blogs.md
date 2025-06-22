@@ -8,7 +8,7 @@ Welcome to my blog section! Here, I share my personal thoughts, experiences, and
 
 ## Explore My Blog
 Click the link below to visit:  
-[My LeetCode Blog](https://your-leetcode-blog-url.com)
+[My LeetCode Blog](https://github.com/RichardHKU/LeetCode/issues)
 
 ## What You’ll Find on the Blog
 - **Problem-Solving Strategies**: Step-by-step explanations of how I approach and solve LeetCode problems.  
