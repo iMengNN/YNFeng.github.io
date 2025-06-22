@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-During my PhD at The University of Hong Kong (HKU), I served as a teaching assistant for **MATH 1853 - Linear Algebra** for two consecutive academic years and was honored to receive the **Best Teaching Assistant Award**. This experience made me realize that I have a talent for communicating with others and a genuine passion for explaining complex concepts in an accessible way.
+During my PhD at The University of Hong Kong (HKU), I served as a teaching assistant for **MATH 1853 - Linear Algebra** for two consecutive years, receiving the **Best Teaching Assistant Award**. I also assisted with **ELEC 2441 - Computer Organization and Microprocessors**. These experiences enhanced my ability to communicate complex technical concepts and fostered my passion for education and mentorship.
 
 
 Teaching Materials
