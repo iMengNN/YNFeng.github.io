@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenyong Zhou (周文涌), a PhD graduate from The University of Hong Kong (HKU), where I had the privilege of being guided by Prof. Ngai Wong and Prof. Can Li in the Next Gen AI Lab. Before that, I earned a Bachelor’s degree from the School of Microelectronics at Tianjin University (2019), where I was fortunate to be mentored by Prof. Yugong Wu. I then pursued a Master’s degree in Electrical and Computer Engineering at Northwestern University, where I was deeply influenced by the visionary mentorship of Prof. Seda Ogrenci.
+I am Wenyong Zhou (周文涌), a PhD graduate from The University of Hong Kong (HKU), where I had the privilege of being guided by [Prof. Ngai Wong](https://www.eee.hku.hk/~nwong/) and [Prof. Can Li](https://www.eee.hku.hk/people/canl/) in the Next Gen AI Lab. Before that, I earned a Bachelor’s degree from the School of Microelectronics at Tianjin University (2019), where I was fortunate to be mentored by [Prof. Yugong Wu](https://baike.baidu.com/item/%E5%90%B4%E8%A3%95%E5%8A%9F/8631943). I then pursued a Master’s degree in Electrical and Computer Engineering at Northwestern University, where I was deeply influenced by the visionary mentorship of [Prof. Seda Ogrenci](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ogrenci-seda.html).
 
 My research focuses on implicit neural representations (INRs) as an efficient data paradigm and emerging computational frameworks, including compute-in-memory (CIM) and stochastic computing. Additionally, I am passionate about improving the efficiency of Large Language Models (LLMs) through techniques such as quantization, pruning, and knowledge distillation.
 
-Since November 2024, I have been working at Zhicun (Witmem) Technology, focusing on low-bit training of LLMs, particularly for compatibility with analog CIM hardware. Previously, I enjoyed enriching internship experiences at Bytedance and JD.com in 2021 and 2023, respectively.
+Since November 2024, I have been working at [Zhicun (Witmem) Technology](http://www.witintech.com/), focusing on low-bit training of LLMs, particularly for compatibility with analog CIM hardware. Previously, I enjoyed enriching internship experiences at Bytedance and JD.com in 2021 and 2023, respectively.
 
 
 Research Interests
@@ -43,7 +43,7 @@ Selected Publications
   - **W. Zhou\***, Y. Cheng\*, T. Wu, C. Zhang, Z. Liu and N. Wong. Enhancing Robustness of Implicit Neural Representations Against Weight Perturbations, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025.
   
 - CIM hardware
-  - T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, C. Shi, Z. Liu and N. Wong. HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, (under review).
+  - T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, C. Shi, Z. Liu and N. Wong. HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, (Under review).
   - **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025*.
   - Y. Feng\*, **W. Zhou\***, Y. Lyu, H. Liu, Z. Liu, N. Wong and W. Kang, HPD: Hybrid Projection Decomposition for Robust State Space Models on Analog CIM Hardware, *2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, 2025*.
   - **W. Zhou**, Y. Ren, Z. Liu and N. Wong. Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
