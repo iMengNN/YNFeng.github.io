@@ -9,18 +9,18 @@ redirect_from:
 
 I am Wenyong Zhou (周文涌), a PhD graduate from The University of Hong Kong (HKU), where I had the privilege of being guided by [Prof. Ngai Wong](https://www.eee.hku.hk/~nwong/) and [Prof. Can Li](https://www.eee.hku.hk/people/canl/) in the [Next Gen AI Lab](https://hku-ngai.github.io/people/). Before that, I earned a Bachelor’s degree from the School of Microelectronics at Tianjin University (2019), where I was fortunate to be mentored by [Prof. Yugong Wu](https://baike.baidu.com/item/%E5%90%B4%E8%A3%95%E5%8A%9F/8631943). I then pursued a Master’s degree in Electrical and Computer Engineering at Northwestern University, where I was deeply influenced by the visionary mentorship of [Prof. Seda Ogrenci](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ogrenci-seda.html).
 
-My research focuses on implicit neural representations (INRs) as an efficient data paradigm and emerging computational frameworks, including compute-in-memory (CIM) and stochastic computing. Additionally, I am passionate about improving the efficiency of Large Language Models (LLMs) through techniques such as quantization, pruning, and knowledge distillation.
+My research focuses on **implicit neural representations (INRs)** as an efficient data paradigm and emerging computational frameworks, including **compute-in-memory (CIM)** and stochastic computing. Additionally, I am passionate about improving the efficiency of **Large Language Models (LLMs)** through techniques such as quantization, pruning, and knowledge distillation.
 
 Since November 2024, I have been working at [Zhicun (Witmem) Technology](http://www.witintech.com/), focusing on low-bit training of LLMs, particularly for compatibility with analog CIM hardware. Previously, I enjoyed enriching internship experiences at Bytedance and JD.com in 2021 and 2023, respectively.
 
 
 Research Interests
 ======
-- Data is the fuel of the AI era, and INRs offer an innovative approach for encoding data such as images, signals, and 3D scenes in a continuous and compact form using neural networks. This reduces the need for extensive storage while maintaining high-fidelity representations.
+- Data is the fuel of the AI era, and **INRs** offer an innovative approach for encoding data such as images, signals, and 3D scenes in a continuous and compact form using neural networks. This reduces the need for extensive storage while maintaining high-fidelity representations.
 
-- Computing power drives modern AI, but classical digital computers face challenges due to the separation of compute and storage units. CIM integrates memory and computation into a single unit, significantly reducing data movement and making it especially effective for accelerating AI workloads.
+- Computing power drives modern AI, but classical digital computers face challenges due to the separation of compute and storage units. **CIM** integrates memory and computation into a single unit, significantly reducing data movement and making it especially effective for accelerating AI workloads.
 
-- LLMs have become a cornerstone of modern AI, driving advancements in applications ranging from natural language understanding to content generation. Minimizing their size and computational requirements without compromising performance democratizes access to advanced AI capabilities and broadens their range of applications.
+- **LLMs** have become a cornerstone of modern AI, driving advancements in applications ranging from natural language understanding to content generation. Minimizing their size and computational requirements without compromising performance democratizes access to advanced AI capabilities and broadens their range of applications.
 
 
 Recent News
