@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Conference
 
-+ Y. Cheng, B. Huang, T. Wu, **W. Zhou**, Z. Liu, G. Chesi, and N. Wong. Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency, *2025 IEEE/CVF International Conference on Computer Vision (ICCV), Honolulu, Hawai'i, 2025*.
++ Y. Cheng, B. Huang, T. Wu, **W. Zhou**, Z. Liu, G. Chesi, and N. Wong. Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency, *2025 IEEE/CVF International Conference on Computer Vision (ICCV), Honolulu, Hawaii, 2025*.
 
 + **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025*.
 
