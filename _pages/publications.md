@@ -5,6 +5,8 @@ title: "Publications"
 
 ## Conference
 
++ Y. Cheng, B. Huang, T. Wu, **W. Zhou**, Z. Liu, G. Chesi, and N. Wong. Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency, *2025 IEEE/CVF International Conference on Computer Vision (ICCV), Honolulu, Hawai'i, 2025*.
+
 + **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025*.
 
 + **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025*.
@@ -12,6 +14,8 @@ title: "Publications"
 + **W. Zhou\***, T. Wu\*, Y. Cheng, C. Zhang, Z. Liu and N. Wong. MINR: Efficient Implicit Neural Representations for Multi-Image Encoding, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025*. 
 
 + **W. Zhou\***, Y. Cheng\*, T. Wu, C. Zhang, Z. Liu and N. Wong. Enhancing Robustness of Implicit Neural Representations Against Weight Perturbations, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025*.
+
++ T. Hou, Y. Ren, **W. Zhou**, C. Li, Z. Wang, H-B. Chen, and N. Wong, Physics-Informed Learning for Versatile RRAM Reset and Retention Simulation, *2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024*.
 
 + W. Qi\*, **W. Zhou\***, N. Wong and S.C. Chan, Hybrid Module with Multiple Receptive Fields and Self-Attention Layers for Medical Image Segmentation, *ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024*.
 
