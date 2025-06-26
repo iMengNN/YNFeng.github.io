@@ -26,9 +26,9 @@ Research Interests
 Recent News
 ======
 - 2025.07 - One paper was accepted by IEEE TCAD.
+- 2025.06 - One paper was accepted by ICCV 2025.
 - 2025.06 - One paper was accepted by IEEE TCAS-II.
 - 2025.03 - One paper was accepted by ICME 2025.
-- 2025.01 - One paper was accepted by EDTM 2025.
 - 2024.12 - Two papers were accepted by ICCASP 2025.
 - 2024.11 - One paper was accepted by DATE 2025.
 
