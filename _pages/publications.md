@@ -31,7 +31,7 @@ title: "Publications"
 
 1. J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
 
-2. T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, S. Wang, F. Shi, Z. Liu and N. Wong. Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
+2. T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, S. Wang, C. Shi, Z. Liu and N. Wong. Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
 
 3. X. Feng, **W. Zhou**, T. Wu, M. Li, Z. Liu and N. Wong. SMURF: Generalized Multivariate Nonlinear Function Approximation for Versatile Applications, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
   
