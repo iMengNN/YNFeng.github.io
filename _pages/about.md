@@ -60,3 +60,5 @@ More about me
 - I love traveling the world to experience beautiful natural landscapes and diverse human cultures, which enrich my understanding of humanity and inspire new ways of thinking.
 
 (Last updated on Aug., 2025)
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-nscv4pQeoMEESU7AgJ6vCgAGxzsHrMmnsZm4xJFXUs&cl=ffffff&w=a"></script>
