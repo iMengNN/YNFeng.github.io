@@ -36,8 +36,8 @@ Selected Publications
 ======
 *: Equal contribution.
 - INRs
-  - **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*.  
-  - J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs*, (Major revision).
+  - J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs*, (Major revision).  
+  - **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*. 
   - **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025*.
   - **W. Zhou\***, T. Wu\*, Y. Cheng, C. Zhang, Z. Liu and N. Wong. MINR: Efficient Implicit Neural Representations for Multi-Image Encoding, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025*.
   - **W. Zhou\***, Y. Cheng\*, T. Wu, C. Zhang, Z. Liu and N. Wong. Enhancing Robustness of Implicit Neural Representations Against Weight Perturbations, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025.
