@@ -33,6 +33,7 @@ Recent News
 - 2024.12 - Two papers were accepted by ICCASP 2025.
 - 2024.11 - One paper was accepted by DATE 2025.
 - 2023.12 - Two papers were accepted by ICCASP 2024.
+- 2023.09 - Two papers were accepted by ASPDAC 2024.
 
 Selected Publications 
 ======
