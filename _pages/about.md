@@ -25,6 +25,7 @@ Research Interests
 
 Recent News
 ======
+- 2025.07 - One paper was accepted by IEEE TCAD.
 - 2025.07 - One paper was accepted by ACM MM 2025.
 - 2025.06 - One paper was accepted by ICCV 2025.
 - 2025.06 - One paper was accepted by IEEE TCAS-II.
@@ -45,7 +46,7 @@ Selected Publications
 - CIM hardware
   - T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, C. Shi, Z. Liu and N. Wong. HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, (Under review).
   - **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025*.
-  - **W. Zhou\***, J. Ren\*, T. Wu, X. Feng, Y. Cheng, H. Xiao,  Y. Lyu, Z. Liu and N. Wong, Implicit Neural Resampling for Robust Vision Transformer on Analog CIM Systems, *2026 Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, China, 2026*.
+  - **W. Zhou**, Y. Ren\*, Z. Liu and N. Wong, Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
   - Y. Feng\*, **W. Zhou\***, Y. Lyu, H. Liu, Z. Liu, N. Wong and W. Kang, HPD: Hybrid Projection Decomposition for Robust State Space Models on Analog CIM Hardware, *2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, 2025*.
   - Y. Feng\*, **W. Zhou\***, Y. Lyu, Y. Zhang, Z. Liu, N. Wong and W. Kang, Extending Straight-Through Estimation for Robust Neural Networks on Analog CIM Hardware, *2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, 2025*.
 
