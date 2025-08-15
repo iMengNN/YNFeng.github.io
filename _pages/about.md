@@ -36,24 +36,11 @@ Recent News
 - 2023.09 - Two papers were accepted by ASPDAC 2024.
 
 Selected Publications 
-======
-*: Equal contribution.
-- INRs
-  - J. Ren\*, **W. Zhou\***, T. Wu, Y. Cheng, Z. Liu and N. Wong. Patch-Based Implicit Neural Representations for Efficient and Scalable Inference, *IEEE Transactions on Circuits and Systems II: Express Briefs*, (Major revision).  
-  - **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*. 
+====== 
+  - **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
+  - **W. Zhou**, Z. Liu, Y. Ren, and N. Wong, Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*. 
   - **W. Zhou\***, J. Ren\*, T. Wu, Y. Cheng, Z. Liu and N. Wong. Distribution-Aware Hadamard Quantization for Hardware-Efficient Implicit Neural Representations, *2025 IEEE International Conference on Multimedia and Expo (ICME), Nantes, France, 2025*.
-  - **W. Zhou\***, T. Wu\*, Y. Cheng, C. Zhang, Z. Liu and N. Wong. MINR: Efficient Implicit Neural Representations for Multi-Image Encoding, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025*.
-  - **W. Zhou\***, Y. Cheng\*, T. Wu, C. Zhang, Z. Liu and N. Wong. Enhancing Robustness of Implicit Neural Representations Against Weight Perturbations, *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025.
-  
-- CIM hardware
-  - T. Wu\*, C. Ding\*, **W. Zhou\***, Y. Cheng, X. Feng, C. Shi, Z. Liu and N. Wong. HaLoRA: Hardware-aware Low-Rank Adaptation for Large Language Models Based on Hybrid Compute-in-Memory Architecture, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, (Under review).
   - **W. Zhou**, T. Wu, C. Ding, Y. Ren, Z. Liu and N. Wong. Towards RRAM-based Transformer-based Vision Models with Noise-aware Knowledge Distillation, *2025 Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025*.
-  - **W. Zhou**, Y. Ren\*, Z. Liu and N. Wong, Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
-  - Y. Feng\*, **W. Zhou\***, Y. Lyu, H. Liu, Z. Liu, N. Wong and W. Kang, HPD: Hybrid Projection Decomposition for Robust State Space Models on Analog CIM Hardware, *2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, 2025*.
-  - Y. Feng\*, **W. Zhou\***, Y. Lyu, Y. Zhang, Z. Liu, N. Wong and W. Kang, Extending Straight-Through Estimation for Robust Neural Networks on Analog CIM Hardware, *2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, 2025*.
-
-- Efficient LLMs
-  - On the way
 
 More about me
 ------
