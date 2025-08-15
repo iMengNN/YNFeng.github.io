@@ -35,7 +35,7 @@ title: "Publications"
 
 ## Journal
   
-2. **W. Zhou**, Y. Ren, Z. Liu and N. Wong. Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
+- **W. Zhou**, Y. Ren, Z. Liu and N. Wong. Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
   
-3. **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
+- **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
 
