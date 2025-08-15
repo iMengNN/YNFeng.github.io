@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Conference
 
-- Y. Feng*, **W. Zhou\***, Y. Lyu, H. Liu, Z. Liu, N. Wong and W. Kang. HPD: Hybrid Projection Decomposition for Robust State Space Models on Analog CIM Hardware, *2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, 2023*..
+- Y. Feng*, **W. Zhou\***, Y. Lyu, H. Liu, Z. Liu, N. Wong and W. Kang. HPD: Hybrid Projection Decomposition for Robust State Space Models on Analog CIM Hardware, *2025 IEEE 16th International Conference on ASIC (ASICON), Kunming, China, 2025*..
 
 - Y. Feng*, **W. Zhou\***, Y. Lyu, Y. Zhang, Z. Liu, N. Wong and W. Kang. Extending Straight-Through Estimation for Robust Neural Networks on Analog CIM Hardware, *2025 IEEE 15th International Conference on ASIC (ASICON), Kunming, China, 2025*.
   
