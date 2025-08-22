@@ -18,17 +18,17 @@ Research Interests
 
 Recent News
 ======
-- 
+  - 
 
 
 Selected Publications 
 ====== 
-  - **W. Zhou\***, B. Li\*, T. Wu, C. Ding, Z. Liu and N. Wong. QuadINR: Quadratic Implicit Neural Representations for Efficient Memristor-based CIM System, *IEEE Transactions on Circuits and Systems II: Express Briefs*.
+  - 
 
 
 More about me
 ------
-- I 
+  - 
 
 (Last updated on Aug., 2025)
 
